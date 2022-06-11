@@ -1,0 +1,7 @@
+PRIMEIRO:  git status
+
+SEGUNDO: git add . (ou) git add -A (para colocar tudo)
+
+TERCEIRO: git commit -m "(FRASE DE FACIL ENTENDIMENTO)"
+
+QUARTO: git push origin main

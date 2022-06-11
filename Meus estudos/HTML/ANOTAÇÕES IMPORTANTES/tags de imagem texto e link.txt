@@ -1,0 +1,5 @@
+Tags:
+
+Tag de texto: <p></p>
+tag de link: <a href="LINK"target="_blank">faixa de texto que ficará o link </a>
+tag de imagem: <img src="a imagem" alt="descricao da imagem">
